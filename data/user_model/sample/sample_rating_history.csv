@@ -1,0 +1,13 @@
+handle,contest_id,contest_name,rank,rating_update_time,old_rating,new_rating
+sample_user,9001,Offline Round 1,4200,1756578600,0,1012
+sample_user,9002,Offline Round 2,3100,1759167000,1012,1128
+sample_user,9003,Offline Round 3,2600,1761845400,1128,1210
+sample_user,9004,Offline Round 4,2300,1764437400,1210,1288
+sample_user,9005,Offline Round 5,1900,1767115800,1288,1362
+sample_user,9006,Offline Round 6,1800,1769794200,1362,1418
+sample_user,9007,Offline Round 7,1650,1772213400,1418,1495
+sample_user,9008,Offline Round 8,1430,1774891800,1495,1560
+sample_user,9009,Offline Round 9,1300,1777483800,1560,1622
+sample_user,9010,Offline Round 10,1150,1780162200,1622,1680
+sample_user,9011,Offline Round 11,2100,1782754200,1680,1645
+sample_user,9012,Offline Round 12,1500,1785432600,1645,1660

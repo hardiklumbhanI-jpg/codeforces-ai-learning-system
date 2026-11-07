@@ -1,0 +1,12 @@
+contest_id,problem_index,name,rating,tags,statement,url
+2008,A,Sakurako's Exam,800,"brute force;constructive algorithms;greedy;math",,https://codeforces.com/problemset/problem/2008/A
+1829,D,Gold Rush,1000,"brute force;dfs and similar;dp;implementation",,https://codeforces.com/problemset/problem/1829/D
+2020,B,Brightness Begins,1200,"binary search;math",,https://codeforces.com/problemset/problem/2020/B
+44,E,Anfisa the Monkey,1400,dp,,https://codeforces.com/problemset/problem/44/E
+332,B,Maximum Absurdity,1500,"data structures;dp;implementation",,https://codeforces.com/problemset/problem/332/B
+1608,C,Game Master,1700,"data structures;dfs and similar;dp;graphs;greedy;two pointers",,https://codeforces.com/problemset/problem/1608/C
+61,D,Eternal Victory,1800,"dfs and similar;graphs;greedy;shortest paths;trees",,https://codeforces.com/problemset/problem/61/D
+1092,F,Tree with Maximum Cost,1900,"dfs and similar;dp;trees",,https://codeforces.com/problemset/problem/1092/F
+201,C,Fragile Bridges,2000,dp,,https://codeforces.com/problemset/problem/201/C
+1003,E,Tree Constructing,2100,"constructive algorithms;graphs",,https://codeforces.com/problemset/problem/1003/E
+45,B,School,2200,"dp;dsu",,https://codeforces.com/problemset/problem/45/B

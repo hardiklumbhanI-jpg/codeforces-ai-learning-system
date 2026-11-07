@@ -1,0 +1,99 @@
+{
+  "model_version": "user-success-v1",
+  "selected_model": "logistic_regression",
+  "target": "accepted at least once for a future user/problem interaction",
+  "split": "chronological 70/15/15 within each handle",
+  "feature_columns": [
+    "current_rating",
+    "max_rating",
+    "rating_trend",
+    "recent_rating_change",
+    "number_of_contests",
+    "prior_attempted",
+    "prior_solved",
+    "prior_recent_solved",
+    "prior_recent_success_rate",
+    "prior_overall_success_rate",
+    "problem_rating",
+    "rating_gap",
+    "number_of_tags",
+    "same_topic_skill",
+    "same_topic_confidence",
+    "related_topic_skill",
+    "same_rating_success",
+    "consistency",
+    "recent_activity",
+    "average_attempts",
+    "wrong_answer_rate",
+    "tle_rate",
+    "topic_recency_days"
+  ],
+  "model1_predicted_rating_used": false,
+  "official_problem_rating_used": true,
+  "validation_comparison": [
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.6666666666666666,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "log_loss": 0.47237981674862556,
+      "brier_score": 0.16571957201349058,
+      "expected_calibration_error": 0.2041049113042432,
+      "positive_rate": 0.3333333333333333,
+      "rows": 9
+    },
+    {
+      "model": "random_forest",
+      "accuracy": 0.6666666666666666,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 0.5555555555555556,
+      "pr_auc": 0.44285714285714284,
+      "log_loss": 0.7170926629187605,
+      "brier_score": 0.2491228038603187,
+      "expected_calibration_error": 0.16897501469723686,
+      "positive_rate": 0.3333333333333333,
+      "rows": 9
+    },
+    {
+      "model": "gradient_boosting",
+      "accuracy": 0.6666666666666666,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 0.6666666666666666,
+      "pr_auc": 0.5916666666666666,
+      "log_loss": 1.0422098931903865,
+      "brier_score": 0.2993824931516788,
+      "expected_calibration_error": 0.2868822868663343,
+      "positive_rate": 0.3333333333333333,
+      "rows": 9
+    }
+  ],
+  "test_metrics": {
+    "accuracy": 0.8888888888888888,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "roc_auc": 0.5,
+    "pr_auc": 0.2,
+    "log_loss": 0.3508391549354782,
+    "brier_score": 0.10283269118892896,
+    "expected_calibration_error": 0.09827315698630884,
+    "positive_rate": 0.1111111111111111,
+    "rows": 9
+  },
+  "calibration": {
+    "method": "reliability diagram and expected calibration error",
+    "warning": "Calibration reliability depends on representative real interaction volume."
+  },
+  "row_counts": {
+    "train": 42,
+    "validation": 9,
+    "test": 9
+  }
+}

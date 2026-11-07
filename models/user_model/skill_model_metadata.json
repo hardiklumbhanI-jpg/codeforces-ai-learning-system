@@ -1,0 +1,17 @@
+{
+  "model": "regularized 1PL item-response skill estimator",
+  "parameters": {
+    "recency_half_life_days": 90.0,
+    "long_term_floor": 0.35,
+    "decay_grace_days": 90.0,
+    "decay_half_life_days": 365.0,
+    "decay_floor": 0.65,
+    "min_rating": 800.0,
+    "max_rating": 2800.0,
+    "prior_strength": 2.5,
+    "confidence_evidence_scale": 8.0
+  },
+  "profiles_built": {
+    "sample_user": 39
+  }
+}

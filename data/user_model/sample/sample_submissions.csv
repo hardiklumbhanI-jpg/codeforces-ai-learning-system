@@ -1,0 +1,70 @@
+submission_id,handle,contest_id,problem_index,problem_name,problem_rating,tags,creation_time,relative_time,verdict,language,passed_test_count,attempt_number
+900001,sample_user,2008,A,"Sakurako's Exam",800,"brute force;constructive algorithms;greedy;math",1756665000,0,WRONG_ANSWER,"GNU C++17",0,1
+900002,sample_user,2008,A,"Sakurako's Exam",800,"brute force;constructive algorithms;greedy;math",1756668600,0,OK,"GNU C++17",10,2
+900003,sample_user,1873,A,"Short Sort",800,"brute force;implementation",1757183400,0,OK,"GNU C++17",10,1
+900004,sample_user,1903,A,"Halloumi Boxes",800,"brute force;greedy;sortings",1757701800,0,OK,"GNU C++17",10,1
+900005,sample_user,2179,A,"Blackslex and Password",800,"math;strings",1758220200,0,OK,"GNU C++17",10,1
+900006,sample_user,1742,C,"Stripes",900,"implementation",1758738600,0,OK,"GNU C++17",10,1
+900007,sample_user,96,A,"Football",900,"implementation;strings",1759257000,0,WRONG_ANSWER,"GNU C++17",0,1
+900008,sample_user,96,A,"Football",900,"implementation;strings",1759260600,0,OK,"GNU C++17",10,2
+900009,sample_user,706,A,"Beru-taxi",900,"brute force;geometry;implementation",1759775400,0,WRONG_ANSWER,"GNU C++17",10,1
+900010,sample_user,1918,B,"Minimize Inversions",900,"constructive algorithms;data structures;greedy;implementation;sortings",1760293800,0,OK,"GNU C++17",10,1
+900011,sample_user,69,A,"Young Physicist",1000,"implementation;math",1760812200,0,OK,"GNU C++17",10,1
+900012,sample_user,2039,B,"Shohag Loves Strings",1000,"constructive algorithms;greedy;implementation;strings",1761330600,0,OK,"GNU C++17",10,1
+900013,sample_user,1829,D,"Gold Rush",1000,"brute force;dfs and similar;dp;implementation",1761849000,0,WRONG_ANSWER,"GNU C++17",0,1
+900014,sample_user,1829,D,"Gold Rush",1000,"brute force;dfs and similar;dp;implementation",1761852600,0,OK,"GNU C++17",10,2
+900015,sample_user,641,A,"Little Artem and Grasshopper",1000,"implementation",1762367400,0,OK,"GNU C++17",10,1
+900016,sample_user,1121,A,"Technogoblet of Fire",1100,"implementation;sortings",1762885800,0,OK,"GNU C++17",10,1
+900017,sample_user,1332,A,"Exercising Walk",1100,"greedy;implementation;math",1763404200,0,OK,"GNU C++17",10,1
+900018,sample_user,2137,C,"Maximum Even Sum",1100,"brute force;greedy;implementation;math",1763922600,0,TIME_LIMIT_EXCEEDED,"GNU C++17",10,1
+900019,sample_user,1783,B,"Matrix of Differences",1100,"constructive algorithms;math",1764441000,0,WRONG_ANSWER,"GNU C++17",0,1
+900020,sample_user,1783,B,"Matrix of Differences",1100,"constructive algorithms;math",1764444600,0,OK,"GNU C++17",10,2
+900021,sample_user,899,B,"Months and Years",1200,"implementation",1764959400,0,OK,"GNU C++17",10,1
+900022,sample_user,1846,D,"Rudolph and Christmas Tree",1200,"constructive algorithms;geometry;math",1765477800,0,OK,"GNU C++17",10,1
+900023,sample_user,2020,B,"Brightness Begins",1200,"binary search;math",1765996200,0,OK,"GNU C++17",10,1
+900024,sample_user,492,B,"Vanya and Lanterns",1200,"binary search;implementation;math;sortings",1766514600,0,OK,"GNU C++17",10,1
+900025,sample_user,1381,A1,"Prefix Flip (Easy Version)",1300,"constructive algorithms;data structures;strings",1767033000,0,WRONG_ANSWER,"GNU C++17",0,1
+900026,sample_user,1381,A1,"Prefix Flip (Easy Version)",1300,"constructive algorithms;data structures;strings",1767036600,0,OK,"GNU C++17",10,2
+900027,sample_user,241,A,"Old Peykan",1300,"greedy",1767551400,0,OK,"GNU C++17",10,1
+900028,sample_user,2216,B,"THU Packing Puzzle",1300,"greedy",1768069800,0,WRONG_ANSWER,"GNU C++17",10,1
+900029,sample_user,1446,A,"Knapsack",1300,"constructive algorithms;greedy;sortings",1768588200,0,OK,"GNU C++17",10,1
+900030,sample_user,546,C,"Soldier and Cards",1400,"brute force;dfs and similar;games",1769106600,0,OK,"GNU C++17",10,1
+900031,sample_user,44,E,"Anfisa the Monkey",1400,"dp",1769625000,0,WRONG_ANSWER,"GNU C++17",0,1
+900032,sample_user,44,E,"Anfisa the Monkey",1400,"dp",1769628600,0,OK,"GNU C++17",10,2
+900033,sample_user,995,B,"Suit and Tie",1400,"greedy;implementation;math",1770143400,0,WRONG_ANSWER,"GNU C++17",10,1
+900034,sample_user,1967,B1,"Reverse Card (Easy Version)",1400,"brute force;math;number theory",1770661800,0,OK,"GNU C++17",10,1
+900035,sample_user,1898,B,"Milena and Admirer",1500,"greedy;math",1771180200,0,OK,"GNU C++17",10,1
+900036,sample_user,332,B,"Maximum Absurdity",1500,"data structures;dp;implementation",1771698600,0,OK,"GNU C++17",10,1
+900037,sample_user,2232,C2,"Seating Arrangement (Hard Version)",1500,"binary search;greedy;math;two pointers",1772217000,0,WRONG_ANSWER,"GNU C++17",10,1
+900038,sample_user,255,C,"Almost Arithmetical Progression",1500,"brute force;dp",1772735400,0,OK,"GNU C++17",10,1
+900039,sample_user,1660,E,"Matrix and Shifts",1600,"brute force;constructive algorithms;greedy;implementation",1773253800,0,OK,"GNU C++17",10,1
+900040,sample_user,2167,E,"khba Loves to Sleep!",1600,"binary search;data structures;geometry;greedy;implementation",1773772200,0,WRONG_ANSWER,"GNU C++17",10,1
+900041,sample_user,1234,D,"Distinct Characters Queries",1600,"data structures",1774290600,0,OK,"GNU C++17",10,1
+900042,sample_user,1623,C,"Balanced Stone Heaps",1600,"binary search;greedy",1774809000,0,TIME_LIMIT_EXCEEDED,"GNU C++17",10,1
+900043,sample_user,1608,C,"Game Master",1700,"data structures;dfs and similar;dp;graphs;greedy;two pointers",1775327400,0,OK,"GNU C++17",10,1
+900044,sample_user,14,C,"Four Segments",1700,"brute force;constructive algorithms;geometry;implementation;math",1775845800,0,WRONG_ANSWER,"GNU C++17",10,1
+900045,sample_user,1884,C,"Medium Design",1700,"brute force;data structures;dp;greedy;sortings",1776364200,0,OK,"GNU C++17",10,1
+900046,sample_user,1324,E,"Sleeping Schedule",1700,"dp;implementation",1776882600,0,WRONG_ANSWER,"GNU C++17",10,1
+900047,sample_user,1450,D,"Rating Compression",1800,"binary search;data structures;greedy;implementation;two pointers",1777401000,0,WRONG_ANSWER,"GNU C++17",10,1
+900048,sample_user,2120,D,"Matrix game",1800,"combinatorics;math",1777919400,0,WRONG_ANSWER,"GNU C++17",10,1
+900049,sample_user,846,F,"Random Query",1800,"data structures;math;probabilities;two pointers",1778437800,0,OK,"GNU C++17",10,1
+900050,sample_user,61,D,"Eternal Victory",1800,"dfs and similar;graphs;greedy;shortest paths;trees",1778956200,0,WRONG_ANSWER,"GNU C++17",10,1
+900051,sample_user,2029,D,"Cool Graph",1900,"constructive algorithms;data structures;dfs and similar;dsu;graphs;greedy;trees",1779474600,0,WRONG_ANSWER,"GNU C++17",10,1
+900052,sample_user,1354,D,"Multiset",1900,"binary search;data structures",1779993000,0,WRONG_ANSWER,"GNU C++17",0,1
+900053,sample_user,1354,D,"Multiset",1900,"binary search;data structures",1779996600,0,OK,"GNU C++17",10,2
+900054,sample_user,2165,B,"Marble Council",1900,"dp;math;sortings",1780511400,0,WRONG_ANSWER,"GNU C++17",10,1
+900055,sample_user,1092,F,"Tree with Maximum Cost",1900,"dfs and similar;dp;trees",1781029800,0,WRONG_ANSWER,"GNU C++17",10,1
+900056,sample_user,201,C,"Fragile Bridges",2000,"dp",1781548200,0,WRONG_ANSWER,"GNU C++17",10,1
+900057,sample_user,1851,G,"Vlad and the Mountains",2000,"binary search;data structures;dsu;graphs;implementation;sortings;trees;two pointers",1782066600,0,TIME_LIMIT_EXCEEDED,"GNU C++17",10,1
+900058,sample_user,1900,D,"Small GCD",2000,"bitmasks;brute force;dp;math;number theory",1782585000,0,WRONG_ANSWER,"GNU C++17",0,1
+900059,sample_user,1900,D,"Small GCD",2000,"bitmasks;brute force;dp;math;number theory",1782588600,0,OK,"GNU C++17",10,2
+900060,sample_user,1951,D,"Buying Jewels",2000,"constructive algorithms;greedy;math",1783103400,0,WRONG_ANSWER,"GNU C++17",10,1
+900061,sample_user,1003,E,"Tree Constructing",2100,"constructive algorithms;graphs",1783621800,0,WRONG_ANSWER,"GNU C++17",10,1
+900062,sample_user,207,C1,"Game with Two Trees",2100,"",1784140200,0,WRONG_ANSWER,"GNU C++17",10,1
+900063,sample_user,103,D,"Time to Raid Cowavans",2100,"brute force;data structures;sortings",1784658600,0,WRONG_ANSWER,"GNU C++17",10,1
+900064,sample_user,1176,F,"Destroy it!",2100,"dp;implementation;sortings",1785177000,0,WRONG_ANSWER,"GNU C++17",0,1
+900065,sample_user,1176,F,"Destroy it!",2100,"dp;implementation;sortings",1785180600,0,OK,"GNU C++17",10,2
+900066,sample_user,2036,G,"Library of Magic",2200,"binary search;constructive algorithms;divide and conquer;interactive;math;number theory",1785695400,0,TIME_LIMIT_EXCEEDED,"GNU C++17",10,1
+900067,sample_user,120,I,"Luck is in Numbers",2200,"greedy",1786213800,0,WRONG_ANSWER,"GNU C++17",10,1
+900068,sample_user,617,E,"XOR and Favorite Number",2200,"data structures",1786732200,0,WRONG_ANSWER,"GNU C++17",10,1
+900069,sample_user,45,B,"School",2200,"dp;dsu",1787250600,0,WRONG_ANSWER,"GNU C++17",10,1
