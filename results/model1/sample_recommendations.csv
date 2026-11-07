@@ -1,0 +1,11 @@
+name,rating,tags,url,rating_gap,tag_overlap
+Alyona and the Tree,1600,dfs and similar;dp;graphs;trees,https://codeforces.com/problemset/problem/682/C,0,1
+Fair,1600,graphs;greedy;number theory;shortest paths,https://codeforces.com/problemset/problem/986/A,0,1
+Longtail Hedgehog,1600,dp;graphs,https://codeforces.com/problemset/problem/615/B,0,1
+Menorah,1600,brute force;graphs;greedy;math,https://codeforces.com/problemset/problem/1615/C,0,1
+Quantity of Strings,1600,combinatorics;dfs and similar;graphs;math,https://codeforces.com/problemset/problem/150/B,0,1
+Fix a Tree,1700,constructive algorithms;dfs and similar;dsu;graphs;trees,https://codeforces.com/problemset/problem/698/B,100,1
+Game Master,1700,data structures;dfs and similar;dp;graphs;greedy;two pointers,https://codeforces.com/problemset/problem/1608/C,100,1
+Gardening Friends,1700,brute force;dfs and similar;dp;graphs;trees,https://codeforces.com/problemset/problem/1822/F,100,1
+Web of Lies,1400,brute force;graphs;greedy,https://codeforces.com/problemset/problem/1548/A,200,1
+Eternal Victory,1800,dfs and similar;graphs;greedy;shortest paths;trees,https://codeforces.com/problemset/problem/61/D,200,1
